@@ -4,6 +4,61 @@
       "latitude": -2.4880838,
       "longitude": -44.1502318,
       "name": "Maranhão - MA"
+    },
+    {
+      "key": "AL",
+      "latitude": -2.504000,
+      "longitude": -44.277363,
+      "name": "Alcântara - MA"
+    },
+    {
+      "key": "AN",
+      "latitude": -3.2651212,
+      "longitude": -44.6158185,
+      "name": "Anajatuba - MA"
+    },
+    {
+      "key": "RA",
+      "latitude": -2.4479369,
+      "longitude": -44.1042572,
+      "name": "Raposa - MA"
+    },
+    {
+      "key": "SM",
+      "latitude": -2.6843664,
+      "longitude": -44.2986896,
+      "name": "São Mateus - MA"
+    },
+    {
+      "key": "AR",
+      "latitude": -3.4532176,
+      "longitude": -44.7813895,
+      "name": "Arari - MA"
+    },
+    {
+      "key": "AC",
+      "latitude": -4.9496441,
+      "longitude": -47.4800759,
+      "name": "Acailandia - MA"
+    },
+    {
+      "key": "BB",
+      "latitude": -4.2294814,
+      "longitude": -44.7753238,
+      "name": "Bacabal - MA"
+    },
+    {
+      "key": "BL",
+      "latitude": -7.5187345,
+      "longitude": -44.1502318,
+      "name": "Balsas - MA"
+    },
+    {
+      "key": "BR",
+      "latitude": -5.5094324,
+      "longitude": -45.2515943,
+      "name": "Barra do Corda - MA"
     }
 ]
+
 
